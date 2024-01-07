@@ -32,13 +32,13 @@ He creado una pagina web de un restaurante que se llama Casa L'Art ubicado en no
 
 <div align="center">
 <a href="https://www.w3schools.com/html/html_emojis.asp">
-    <img src= "https://cdn.icon-icons.com/icons2/2699/PNG/512/w_html_logo_icon_170241.png" height=50px/>
+    <img src= "https://cdn.icon-icons.com/icons2/2699/PNG/512/w_html_logo_icon_170241.png" height=50px />
 </a>
 <a href="https://www.w3schools.com/css/default.asp">
-    <img src= "https://assets.stickpng.com/images/62b2220b038aad4d3ed7ca2f.png" height=50px/>
+    <img src= "https://assets.stickpng.com/images/62b2220b038aad4d3ed7ca2f.png" height=50px />
 </a>
 <a href="https://getbootstrap.com/">
-    <img src= "https://logovectorseek.com/wp-content/uploads/2019/10/bootstrap-logo-vector.png" height=50px/>
+    <img src= "https://logovectorseek.com/wp-content/uploads/2019/10/bootstrap-logo-vector.png" height=50px />
 </a>
  </div>
 
@@ -89,7 +89,7 @@ Para poder realizar este proyecto he recopilado informacion en:
 <div align="center">
 <a href="www.gmail.com">
     <img src= "https://i.blogs.es/16b956/gmail-nuevo-logo-google-workspace/1366_2000.jpg
-" height=50px/>
+" height=50px />
 </a>
 </div>
 
