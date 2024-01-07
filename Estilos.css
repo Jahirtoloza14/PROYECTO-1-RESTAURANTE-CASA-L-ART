@@ -1,0 +1,65 @@
+
+.navbar-brand {
+    color: aliceblue;
+    
+    transform: translateX(-150%);
+
+    max-height: 89rem;
+}
+
+.carousel-inner{
+    
+    max-height: 89rem;
+    max-width: 99rem;
+  
+}
+
+
+
+
+
+#menu{
+
+    max-height: 89rem;
+    position:absolute;
+    top: 20px;
+    left: 90%;
+    transform: translateX(-1000%);
+    z-index: 999; /* Asegura que el menú esté sobre el carrusel */
+    
+    padding: 10px 20px;
+    grid-template-columns: 20px 20px;
+    display: grid;
+    grid-template-rows: 40px 40px 40px;
+    
+    max-width: 99rem;
+    
+
+}
+#menu ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+  }
+  
+  #menu ul li {
+    margin-right: 20px;
+  }
+  
+  #menu ul li a {
+    text-decoration: none;
+    color: #6c6a6a;
+    font-weight:normal;
+    font-size: 22px;
+    
+  }
+  
+  #menu ul li a:hover {
+    color: #ed9d4e;
+   
+  }
+  #nav-item{
+    max-width: 99rem;
+    max-height: 99rem;
+  }

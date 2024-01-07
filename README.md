@@ -1,0 +1,110 @@
+## PROYECTO 1 CARTA RESTAURANTE CASA L'ART
+***
+###### contenido    🚩
+1. [Objetivo](#objetivo)
+2. [Sobre el proyecto](#sobre-el-proyecto)
+3. [Deplay](#deplay)
+4. [Stack](#stack)
+5. [Instalacion](#instalacion)
+6. [Vistas](#vistas)
+8. [Contribuciones](#contribuciones)
+9. [Licencia](#licencia)
+10. [Webgrafia](#webgrafia)
+
+***
+### Objetivo 🎯
+
+ crear una carta o menú de un restaurante digital, en este caso para poner en práctica los conocimientos adquiridos en materia de HTML5, CSS3, CSS Layout (Flexbox & Grid) además de Bootstrap.
+***
+### Sobre el proyecto 🚀
+
+He creado una pagina web de un restaurante que se llama Casa L'Art ubicado en novelda la web contiene 3 paginas html hipervinculadas, la pagina incio nos muestra acerca del establecimiento, la pagina menu nos muestra un breve resumen de su menu y la pagina contacto nos muestra la ubicacion y contacto del restaurante.
+***
+### Deplay 🛧
+
+[URL a produccion](google.com)
+              
+
+              
+              
+***
+### Stack   🛠              
+
+
+<div align="center">
+<a href="https://www.w3schools.com/html/html_emojis.asp">
+    <img src= "https://cdn.icon-icons.com/icons2/2699/PNG/512/w_html_logo_icon_170241.png" height=50px/>
+</a>
+<a href="https://www.w3schools.com/css/default.asp">
+    <img src= "https://assets.stickpng.com/images/62b2220b038aad4d3ed7ca2f.png" height=50px/>
+</a>
+<a href="https://getbootstrap.com/">
+    <img src= "https://logovectorseek.com/wp-content/uploads/2019/10/bootstrap-logo-vector.png" height=50px/>
+</a>
+ </div>
+
+***
+### Instalacion en local
+
+1. Clonar el repositorio
+2. `$ npm install`
+3. `npm run dev`
+4. ...
+
+***
+### Vistas 
+Incio
+![inicio](./vista%20inicio%201.png)
+Acerca
+![acerca](./vista%20inicio%202.png)
+Menu
+![menu](./vista%20menu.png)
+Contacto
+![contacto](./vista%20contacto.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+***
+
+### Contribuciones
+- Crea una nueva rama  
+        ```
+        $ git checkout -b feature/nombreUsuario-mejora
+        ```
+    - Haz un commit con tus cambios 
+        ```
+        $ git commit -m 'feat: mejora X cosa'
+        ```
+    - Haz push a la rama 
+        ```
+        $ git push origin feature/nombreUsuario-mejora
+        ```
+    - Abre una solicitud de Pull Request
+***
+### Licencia
+Este proyecto se encuentra bajo licencia de Jahir Toloza
+
+### Webgrafia
+Para poder realizar este proyecto he recopilado informacion en:
+[w3 Schools](https://www.w3schools.com/)
+***
+### Contacto
+
+<div align="center">
+<a href="www.gmail.com">
+    <img src= "https://i.blogs.es/16b956/gmail-nuevo-logo-google-workspace/1366_2000.jpg
+" height=50px/>
+</a>
+</div>
+# PROYECTO-1-RESTAURANTE-CASA-L-ART
+# proyecto1
