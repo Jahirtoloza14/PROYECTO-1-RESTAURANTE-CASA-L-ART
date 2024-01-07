@@ -7,9 +7,8 @@
 4. [Stack](#stack)
 5. [Instalacion](#instalacion)
 6. [Vistas](#vistas)
-8. [Contribuciones](#contribuciones)
-9. [Licencia](#licencia)
-10. [Webgrafia](#webgrafia)
+7. [Licencia](#licencia)
+8. [Webgrafia](#webgrafia)
 
 ***
 ### Objetivo 🎯
@@ -47,9 +46,9 @@ He creado una pagina web de un restaurante que se llama Casa L'Art ubicado en no
 ### Instalacion en local
 
 1. Clonar el repositorio
-2. `$ npm install`
-3. `npm run dev`
-4. ...
+ - `$ git init`
+ - `git clone y link del repositorio`
+
 
 ***
 ### Vistas 
@@ -106,5 +105,4 @@ Para poder realizar este proyecto he recopilado informacion en:
 " height=50px/>
 </a>
 </div>
-# PROYECTO-1-RESTAURANTE-CASA-L-ART
-# proyecto1
+
