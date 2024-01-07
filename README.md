@@ -35,7 +35,7 @@ He creado una pagina web de un restaurante que se llama Casa L'Art ubicado en no
     <img src= "https://cdn.icon-icons.com/icons2/2699/PNG/512/w_html_logo_icon_170241.png" height=50px />
 </a>
 <a href="https://www.w3schools.com/css/default.asp">
-    <img src= "[https://assets.stickpng.com/images/62b2220b038aad4d3ed7ca2f.png](https://assets.stickpng.com/images/62b2220b038aad4d3ed7ca2f.png)" height=50px />
+    <img src= "https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_640.png" height=50px />
 </a>
 <a href="https://getbootstrap.com/">
     <img src= "https://logovectorseek.com/wp-content/uploads/2019/10/bootstrap-logo-vector.png" height=50px />
