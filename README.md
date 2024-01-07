@@ -73,22 +73,9 @@ Contacto
 
 
 
-***
 
-### Contribuciones
-- Crea una nueva rama  
-        ```
-        $ git checkout -b feature/nombreUsuario-mejora
-        ```
-    - Haz un commit con tus cambios 
-        ```
-        $ git commit -m 'feat: mejora X cosa'
-        ```
-    - Haz push a la rama 
-        ```
-        $ git push origin feature/nombreUsuario-mejora
-        ```
-    - Abre una solicitud de Pull Request
+
+
 ***
 ### Licencia
 Este proyecto se encuentra bajo licencia de Jahir Toloza
